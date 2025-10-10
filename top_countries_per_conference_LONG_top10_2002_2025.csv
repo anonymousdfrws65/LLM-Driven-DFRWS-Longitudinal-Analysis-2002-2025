@@ -1,0 +1,34 @@
+conference,country,total_count,rank,share
+DFRWS APAC,South Korea,16,1,0.2078
+DFRWS APAC,Germany,9,2,0.1169
+DFRWS APAC,United Kingdom,6,3,0.0779
+DFRWS APAC,Australia,6,4,0.0779
+DFRWS APAC,China,5,5,0.0649
+DFRWS APAC,Ireland,4,6,0.0519
+DFRWS APAC,India,4,7,0.0519
+DFRWS APAC,USA,3,8,0.039
+DFRWS APAC,Switzerland,3,9,0.039
+DFRWS APAC,United Arab Emirates,3,10,0.039
+DFRWS APAC,Other,18,11,0.2338
+DFRWS Europe,Germany,49,1,0.2438
+DFRWS Europe,USA,30,2,0.1493
+DFRWS Europe,United Kingdom,20,3,0.0995
+DFRWS Europe,Ireland,17,4,0.0846
+DFRWS Europe,Switzerland,17,5,0.0846
+DFRWS Europe,Netherlands,14,6,0.0697
+DFRWS Europe,Canada,8,7,0.0398
+DFRWS Europe,Norway,6,8,0.0299
+DFRWS Europe,South Korea,6,9,0.0299
+DFRWS Europe,Spain,5,10,0.0249
+DFRWS Europe,Other,29,11,0.1443
+DFRWS USA,USA,199,1,0.4854
+DFRWS USA,Germany,42,2,0.1024
+DFRWS USA,Canada,18,3,0.0439
+DFRWS USA,Australia,17,4,0.0415
+DFRWS USA,South Korea,17,5,0.0415
+DFRWS USA,United Kingdom,13,6,0.0317
+DFRWS USA,Ireland,11,7,0.0268
+DFRWS USA,Norway,11,8,0.0268
+DFRWS USA,United Arab Emirates,11,9,0.0268
+DFRWS USA,Switzerland,10,10,0.0244
+DFRWS USA,Other,61,11,0.1488
