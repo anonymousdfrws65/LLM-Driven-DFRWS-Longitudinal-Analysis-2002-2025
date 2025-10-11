@@ -9,6 +9,20 @@ This repository contains the data, code, and LaTeX sources for a longitudinal st
 > - Domains (cumulative by 2025): **CF 142, SF 148, NF 63, DF 55, KS 38, IoT 31**
 
 ---
-
+## Environment
+- Python 3.10+
+- `pip install -r requirements.txt`  
+  (pandas, numpy, matplotlib)
 ## Repository Structure
 
+## Main script
+- **dfrws_llm** `main.py`
+
+## Key input files (data/) 
+- `tools_new_expanded.csv.xlsx`
+- `results_combined_prompts_new.csv`
+- `cdf_all_plus_top6_cumulative_counts.csv`
+- `cdf_all_plus_top6_yearly_counts.csv`
+- `discipline_trend_by_year_all.csv`
+- `subdiscipline_yearly_trends_top15.csv`
+- `venue_discipline_matrix.csv`
