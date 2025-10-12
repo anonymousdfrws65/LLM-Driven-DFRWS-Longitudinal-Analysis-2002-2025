@@ -16,7 +16,7 @@ This repository contains the data, code, and LaTeX sources for a longitudinal st
 ## Repository Structure
 
 ## Main script
-- **dfrws_llm** `main.py`
+- **dfrws_llm_current** `main.py`
 
 ## Key input files (data/) 
 - `tools_new_expanded.csv.xlsx`
