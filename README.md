@@ -19,8 +19,8 @@ This repository contains the data, code, and LaTeX sources for a longitudinal st
 - **dfrws_llm_current** `main.py`
 
 ## Key input files (data/) 
-- `tools_new_expanded.csv.xlsx`
-- `results_combined_prompts_new.csv`
+- `tools_new_expanded.csv.xlsx` (IT HAS ALL PAPER-TOOL instances)
+- `results_combined_prompts_new.csv`   (IT HAS ALL METADATA, DF VS AF AND DOMAINS)
 - `cdf_all_plus_top6_cumulative_counts.csv`
 - `cdf_all_plus_top6_yearly_counts.csv`
 - `discipline_trend_by_year_all.csv`
