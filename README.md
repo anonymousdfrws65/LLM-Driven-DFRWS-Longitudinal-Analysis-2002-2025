@@ -11,7 +11,6 @@ This repository contains the data, code, and LaTeX sources for a longitudinal st
 ---
 ## Environment
 - Python 3.10+
-- `pip install -r requirements.txt`  
   (pandas, numpy, matplotlib)
 ## Repository Structure
 
